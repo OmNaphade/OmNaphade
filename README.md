@@ -76,25 +76,24 @@ Docker-sandboxed execution and a containerized CI/CD pipeline.
 
 <br/>
 
-## 🧠 AI / ML Expertise
+## 🧠 Shipping AI / ML
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| LLM Integration & RAG | Production | Built RAG pipelines (pgvector + Ollama embeddings) grounding a 5-mode chat assistant over 4,800+ interview questions across 12 topics; shipped LLM-based, human-in-the-loop compliance validation at Deutsche Bank |
 | Multi-Agent Systems | Production | Built feedback/integration endpoints, log-source connectors, and prompt logic for a live multi-agent SRE assistant used by 8 teams to surface fixes from historical incidents |
 | Classical ML | Applied | Trained a Random Forest classifier (~85% accuracy) flagging recurring failures across 30+ ServiceNow assignment groups; completed DeepLearning.AI's *Supervised Machine Learning* |
-| Semantic Search | Production | pgvector-based semantic search matching regulations to internal controls; RAG-grounded interview Q&A retrieval with GROQ → Ollama fallback |
+| Semantic Search | Production | Built pgvector-based semantic search matching regulations to internal controls; engineered RAG-grounded interview Q&A retrieval with GROQ → Ollama fallback |
 
 <br/>
 
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>Job Portal — Microservices Hiring Platform</b></summary>
+<summary><b>Job Portal — Hiring Platform</b></summary>
 <br/>
 
-Role-based hiring platform covering the full recruitment lifecycle — candidates, recruiters, and
-admins — built as 9 independent Spring Boot microservices behind an API Gateway, with a React
+Built a role-based hiring platform covering the full recruitment lifecycle — candidates, recruiters,
+and admins — as 9 independent Spring Boot microservices behind an API Gateway, with a React
 frontend and full Docker Compose local stack.
 
 | | |
@@ -120,8 +119,8 @@ Grafana dashboards, JaCoCo coverage, and k6 load tests.
 <summary><b>Interview Hub</b></summary>
 <br/>
 
-End-to-end AI interview preparation platform: layered Spring Boot backend, RAG-grounded chat
-assistant, and a sandboxed multi-language code playground.
+Built an end-to-end AI interview preparation platform: layered Spring Boot backend, RAG-grounded
+chat assistant, and a sandboxed multi-language code playground.
 
 | | |
 |---|---|
@@ -145,9 +144,9 @@ containers.
 <summary><b>Regulation Impact Intelligence Platform</b></summary>
 <br/>
 
-Hackathon build (4-person team, 24 hours): an AI-assisted pipeline mapping regulatory obligations to
-internal controls and applications, scoring risk gaps and generating a prioritized remediation
-roadmap. Earned judges' recognition for technical execution.
+Built during a 24-hour hackathon (4-person team): an AI-assisted pipeline mapping regulatory
+obligations to internal controls and applications, scoring risk gaps and generating a prioritized
+remediation roadmap. Earned judges' recognition for technical execution.
 
 | | |
 |---|---|
