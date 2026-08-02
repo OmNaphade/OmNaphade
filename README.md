@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Om%20Naphade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%2FSpring%20Boot%20%7C%20React%20%7C%20LLM%2FRAG&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Java+%2F+Spring+Boot+%2F+Microservices;React+%2B+REST+APIs+%2B+PostgreSQL;Shipping+LLM+%2F+RAG+features+in+production;Building+cloud-native+platforms+on+GCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Java+%2F+Spring+Boot+%2F+Microservices;React+%2B+REST+APIs+%2B+PostgreSQL;Shipping+LLM+%2F+RAG+features+in+production" alt="Typing SVG" />
 
 ![Education](https://img.shields.io/badge/B.E.%20Computer%20Engineering%20%C2%B7%20PG--DAC%20(CDAC)-8B5CF6?style=flat-square&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Pune%2C%20Maharashtra%2C%20India-6366F1?style=flat-square&labelColor=1a1a2e)
