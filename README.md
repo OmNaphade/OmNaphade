@@ -44,10 +44,10 @@ Docker-sandboxed execution and a containerized CI/CD pipeline.
 <p><img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" /></p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" /></p>
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,kafka,hibernate&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,hibernate&theme=dark" /></p>
 
 **Data**
 <p><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" /></p>
@@ -60,14 +60,11 @@ Docker-sandboxed execution and a containerized CI/CD pipeline.
 <p><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></p>
 <p>
   <img src="https://img.shields.io/badge/LLM%20Integration-A78BFA?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Ollama-7C3AED?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Pandas-A78BFA?style=flat-square&labelColor=1a1a2e" />
 </p>
 
 **DevOps, Cloud & Testing**
-<p><img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,githubactions,git,github,grafana,prometheus,cypress&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,githubactions,git,github,grafana,prometheus&theme=dark" /></p>
 <p>
   <img src="https://img.shields.io/badge/JUnit-A78BFA?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Mockito-8B5CF6?style=flat-square&labelColor=1a1a2e" />
