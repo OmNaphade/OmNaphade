@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Om%20Naphade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%40%20Deutsche%20Bank%20%7C%20Java%2FSpring%20Boot%20%7C%20React%20%7C%20LLM%2FRAG&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Om%20Naphade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%2FSpring%20Boot%20%7C%20React%20%7C%20LLM%2FRAG&descAlignY=58&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Java+%2F+Spring+Boot+%2F+Microservices;React+%2B+REST+APIs+%2B+PostgreSQL;Shipping+LLM+%2F+RAG+features+in+production;Building+cloud-native+platforms+on+GCP" alt="Typing SVG" />
 
@@ -24,13 +24,13 @@
 
 Full Stack Engineer with strong **Java**/**Spring Boot** backend depth and end-to-end **React**
 delivery, building secure, cloud-native **microservices** and internal platforms in a global banking
-environment. At **Deutsche Bank**, I own full-stack systems for compliance validation and org-wide
+environment. I own full-stack systems for compliance validation and org-wide
 notifications — from REST APIs and data models to React UIs — cutting manual review time by
 **~78%** and streamlining incident workflows. I've also shipped **LLM**/**RAG** features in
 production and engineered a Spring Boot semantic-search platform over **4,800+** questions with
 Docker-sandboxed execution and a containerized CI/CD pipeline.
 
-- 💼 **Software Engineer** @ **Deutsche Bank** (Sep 2025 – Present)
+- 💼 **Software Engineer** (Sep 2025 – Present)
 - 🔭 Building **Job Portal**, **Interview Hub**, and other Java/Spring + React + LLM/RAG systems
 - 🧠 Shipping LLM/RAG features: multi-agent SRE assistants, semantic search, human-in-the-loop validation
 - 🎓 PG-DAC (CDAC, Pune) · B.E. Computer Engineering (Savitribai Phule Pune University)
@@ -189,7 +189,7 @@ Sep 2025 — Present
 
 | Recognition | Details |
 |---|---|
-| **Bank on Tech — Selected Presenter (firm-wide)**, Deutsche Bank (Jun 2026) | Selected among firm-wide applicants to present an LLM-powered notification platform for releases and high-impact events to senior management — a framework for transparent, real-time, audience-targeted communication with built-in approval workflows and end-to-end lifecycle tracking |
+| **Bank on Tech — Selected Presenter (firm-wide)** (Jun 2026) | Selected among firm-wide applicants to present an LLM-powered notification platform for releases and high-impact events to senior management — a framework for transparent, real-time, audience-targeted communication with built-in approval workflows and end-to-end lifecycle tracking |
 | **Global 24-Hour Hackathon — Participant** (Jul 2026) | Co-built the Regulation Impact Intelligence Platform with a 4-person team; earned judges' recognition for technical execution |
 
 </div>
@@ -274,7 +274,7 @@ building:
   - "Job Portal — microservices hiring platform"
   - "Interview Hub — RAG-grounded interview prep platform"
 shipping:
-  - "LLM/RAG features in production (Deutsche Bank)"
+  - "LLM/RAG features in production"
 exploring:
   - "LangGraph & multi-agent architectures"
   - "Semantic search at scale (pgvector)"
