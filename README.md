@@ -13,6 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmNaphade)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OmNaphade&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/OmNaphade?style=for-the-badge&color=6366F1&labelColor=1a1a2e&label=Followers)
 ![Stars](https://img.shields.io/github/stars/OmNaphade?style=for-the-badge&color=A78BFA&labelColor=1a1a2e&label=Stars)
 
 </div>
