@@ -1,0 +1,32 @@
+name: Sync Coding Contributions
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Sync contributions
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+        run: node scripts/sync-contributions.js
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync coding contributions"
+          commit_user_name: ${{ vars.GIT_AUTHOR_NAME }}
+          commit_user_email: ${{ vars.GIT_AUTHOR_EMAIL }}
+          file_pattern: "contributions/**"

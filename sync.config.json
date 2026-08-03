@@ -1,0 +1,26 @@
+{
+  "leetcode": {
+    "enabled": true,
+    "username": "your-leetcode-username"
+  },
+  "codeforces": {
+    "enabled": true,
+    "username": "your-codeforces-handle"
+  },
+  "geeksforgeeks": {
+    "enabled": false,
+    "username": "your-gfg-username"
+  },
+  "hackerrank": {
+    "enabled": false,
+    "username": "your-hackerrank-username"
+  },
+  "codechef": {
+    "enabled": false,
+    "username": "your-codechef-username"
+  },
+  "interviewbit": {
+    "enabled": false,
+    "username": "your-interviewbit-username"
+  }
+}

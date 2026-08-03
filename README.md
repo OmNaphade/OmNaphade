@@ -204,8 +204,29 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 <br/>
 
 <!--
-  PLACEHOLDER USERNAMES — replace every `your-...-username` below with your
-  real handle on each platform before publishing.
+  PLACEHOLDER USERNAMES — replace every `your-...-username` below, and in
+  sync.config.json, with your real handle on each platform.
+
+  A single scheduled job (.github/workflows/contribution-sync.yml, every 15
+  min) reads sync.config.json and syncs solved problems into this repo as
+  real commits, so they show up in the GitHub contribution graph below
+  instead of a separate card per platform:
+    - LeetCode and Codeforces have working adapters today (scripts/adapters).
+    - GeeksforGeeks, HackerRank, CodeChef, and InterviewBit have no public
+      API, so their adapters are stubs — flip `enabled: true` for a platform
+      in sync.config.json once/if a real data source is wired up for it.
+  This is polling, not a live push — there's no webhook from these sites, so
+  "instant" isn't possible; 15 min is the practical floor before GitHub
+  starts delaying runs.
+
+  Setup, under Settings → Secrets and variables → Actions:
+    - Secrets: LEETCODE_SESSION, LEETCODE_CSRF_TOKEN (from your browser
+      cookies while logged into leetcode.com).
+    - Variables: GIT_AUTHOR_NAME, GIT_AUTHOR_EMAIL — your own GitHub
+      username and a verified email on your account (a GitHub-provided
+      noreply address like ID+username@users.noreply.github.com works
+      well). Without this the sync commits are attributed to
+      github-actions[bot] and won't count toward your contribution graph.
 -->
 
 ## 💻 Coding Profiles
@@ -221,17 +242,8 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 
 </div>
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://codechef-readme-stats.vercel.app/api/card?username=your-codechef-username&theme=dark" alt="CodeChef Stats" />
-
-</div>
+LeetCode and Codeforces activity syncs into the contribution graph below — see
+[Contribution Activity](#-contribution-activity).
 
 <br/>
 
@@ -247,6 +259,8 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 </div>
 
 ## 📈 Contribution Activity
+
+One heatmap for everything — GitHub work plus synced LeetCode/Codeforces solves.
 
 <div align="center">
 
