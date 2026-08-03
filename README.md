@@ -229,7 +229,7 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
       github-actions[bot] and won't count toward your contribution graph.
 -->
 
-## 💻 Coding Profiles
+<!-- ## 💻 Coding Profiles
 
 <div align="center">
 
@@ -238,7 +238,7 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 [![HackerRank](https://img.shields.io/badge/HackerRank-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/your-hackerrank-username)
 [![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-8B5CF6?style=for-the-badge&logoColor=white)](https://www.interviewbit.com/profile/your-interviewbit-username)
-[![Codeforces](https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-handle)
+[![Codeforces](https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-handle) -->
 
 </div>
 
