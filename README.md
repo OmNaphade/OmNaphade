@@ -73,11 +73,27 @@ Docker-sandboxed execution and a containerized CI/CD pipeline.
 
 <br/>
 
+## 💼 Experience
+
+#### Software Engineer · Deutsche Bank
+Sep 2025 — Present
+
+- **Backend:** Engineered Java/Spring Boot microservices with LLM-based, human-in-the-loop validation of ServiceNow records against compliance rules, cutting manual review from ~45 to ~10 minutes per batch.
+- **API & Data:** Designed REST API contracts and relational schemas across PostgreSQL, Oracle, and MySQL; authored JUnit/Mockito unit and integration tests to harden service reliability.
+- **Full-Stack Platform:** Led end-to-end delivery of an internal notification platform (React/Vite + Java/Spring Boot) with RBAC, approval workflows, and lifecycle tracking; onboarded 10+ teams handling 100+ daily notifications.
+- **Frontend:** Delivered React/Vite frontends and full-stack features across multiple internal tools, and integrated SSO (Spring Security + LDAP) for secure access.
+- **AI Integration:** Developed feedback/integration REST endpoints, log-source connectors, and prompt logic for a live multi-agent SRE assistant used by 8 teams to surface fixes from historical incidents and speed triage.
+- **ML:** Trained a Random Forest classifier reaching ~85% accuracy on live data to flag recurring failures across 30+ ServiceNow assignment groups.
+
+<br/>
+
 ## 🚀 Featured Projects
 
 <details open>
 <summary><b>Job Portal — Hiring Platform</b></summary>
 <br/>
+
+<p><img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,react,docker,githubactions,grafana,prometheus&theme=dark" /></p>
 
 Built a role-based hiring platform covering the full recruitment lifecycle — candidates, recruiters,
 and admins — as 9 independent Spring Boot microservices behind an API Gateway, with a React
@@ -106,6 +122,8 @@ Grafana dashboards, JaCoCo coverage, and k6 load tests.
 <summary><b>Interview Hub</b></summary>
 <br/>
 
+<p><img src="https://skillicons.dev/icons?i=java,spring,postgres,react,docker,githubactions&theme=dark" /></p>
+
 Built an end-to-end AI interview preparation platform: layered Spring Boot backend, RAG-grounded
 chat assistant, and a sandboxed multi-language code playground.
 
@@ -131,6 +149,8 @@ containers.
 <summary><b>Regulation Impact Intelligence Platform</b></summary>
 <br/>
 
+<p><img src="https://skillicons.dev/icons?i=py,react,ts,postgres,docker,gcp&theme=dark" /></p>
+
 Built during a 24-hour hackathon (4-person team): an AI-assisted pipeline mapping regulatory
 obligations to internal controls and applications, scoring risk gaps and generating a prioritized
 remediation roadmap. Earned judges' recognition for technical execution.
@@ -151,20 +171,6 @@ Cloud Run. Used pgvector semantic search to match incoming regulations against e
 surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 
 </details>
-
-<br/>
-
-## 💼 Experience
-
-#### Software Engineer · Deutsche Bank
-Sep 2025 — Present
-
-- **Backend:** Engineered Java/Spring Boot microservices with LLM-based, human-in-the-loop validation of ServiceNow records against compliance rules, cutting manual review from ~45 to ~10 minutes per batch.
-- **API & Data:** Designed REST API contracts and relational schemas across PostgreSQL, Oracle, and MySQL; authored JUnit/Mockito unit and integration tests to harden service reliability.
-- **Full-Stack Platform:** Led end-to-end delivery of an internal notification platform (React/Vite + Java/Spring Boot) with RBAC, approval workflows, and lifecycle tracking; onboarded 10+ teams handling 100+ daily notifications.
-- **Frontend:** Delivered React/Vite frontends and full-stack features across multiple internal tools, and integrated SSO (Spring Security + LDAP) for secure access.
-- **AI Integration:** Developed feedback/integration REST endpoints, log-source connectors, and prompt logic for a live multi-agent SRE assistant used by 8 teams to surface fixes from historical incidents and speed triage.
-- **ML:** Trained a Random Forest classifier reaching ~85% accuracy on live data to flag recurring failures across 30+ ServiceNow assignment groups.
 
 <br/>
 
@@ -198,20 +204,36 @@ Sep 2025 — Present
 <br/>
 
 <!--
-  Coding profiles — no verified handles yet. Uncomment and fill in with real
-  usernames/links when available.
-
-  ## 💻 Coding Profiles
-
-  <div align="center">
-
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/<your-username>)
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/<your-username>)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/<your-username>)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/<your-username>)
-
-  </div>
+  PLACEHOLDER USERNAMES — replace every `your-...-username` below with your
+  real handle on each platform before publishing.
 -->
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/your-leetcode-username/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-gfg-username/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/your-hackerrank-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-8B5CF6?style=for-the-badge&logoColor=white)](https://www.interviewbit.com/profile/your-interviewbit-username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-handle)
+
+</div>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://codechef-readme-stats.vercel.app/api/card?username=your-codechef-username&theme=dark" alt="CodeChef Stats" />
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Analytics
 
