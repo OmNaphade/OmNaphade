@@ -18,27 +18,27 @@
 
 </div>
 
-<br/>
+---
 
-## <img src="https://skillicons.dev/icons?i=java" width="28"/> About Me
+## About
 
 Full Stack Engineer with strong **Java**/**Spring Boot** backend depth and end-to-end **React**
 delivery, building secure, cloud-native **microservices** and internal platforms in a global banking
-environment, where I own full-stack systems for compliance validation and org-wide
-notifications — from REST APIs and data models to React UIs — cutting manual review time by
-**~78%** and streamlining incident workflows. I've also shipped **LLM**/**RAG** features in
-production and engineered a Spring Boot semantic-search platform over **4,800+** questions with
-Docker-sandboxed execution and a containerized CI/CD pipeline.
+environment, where I own full-stack systems for compliance validation and org-wide notifications —
+from REST APIs and data models to React UIs — cutting manual review time by **~78%** and
+streamlining incident workflows. I've also shipped **LLM**/**RAG** features in production and
+engineered a Spring Boot semantic-search platform over **4,800+** questions with Docker-sandboxed
+execution and a containerized CI/CD pipeline.
 
-- 💼 **Software Engineer** (Sep 2025 – Present)
-- 🔭 Building **Job Portal**, **Interview Hub**, and other Java/Spring + React + LLM/RAG systems
-- 🧠 Shipping LLM/RAG features: multi-agent SRE assistants, semantic search, human-in-the-loop validation
-- 🎓 PG-DAC (CDAC, Pune) · B.E. Computer Engineering (Savitribai Phule Pune University)
-- 📫 **omnaphade0902@gmail.com** · [linkedin.com/in/omnaphade](https://www.linkedin.com/in/omnaphade/)
+- **Software Engineer** (Sep 2025 – Present) — Java/Spring + React + LLM/RAG systems
+- **Education** — PG-DAC (CDAC, Pune) · B.E. Computer Engineering (Savitribai Phule Pune University)
+- **Contact** — omnaphade0902@gmail.com · [linkedin.com/in/omnaphade](https://www.linkedin.com/in/omnaphade/)
 
-<br/>
+**Open To:** Backend / Full-Stack Engineering roles · AI/ML & LLM integration work · Open-source collaboration
 
-## <img src="https://skillicons.dev/icons?i=java" width="28"/> Tech Stack
+---
+
+## Tech Stack
 
 **Languages**
 <p><img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" /></p>
@@ -46,24 +46,14 @@ Docker-sandboxed execution and a containerized CI/CD pipeline.
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" /></p>
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,hibernate&theme=dark" /></p>
-
-**Data**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" /></p>
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,hibernate,postgres,mysql,redis&theme=dark" /></p>
 <p>
   <img src="https://img.shields.io/badge/pgvector-6366F1?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Oracle-8B5CF6?style=flat-square&labelColor=1a1a2e" />
 </p>
 
-**AI / ML**
-<p><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></p>
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Integration-A78BFA?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Ollama-7C3AED?style=flat-square&labelColor=1a1a2e" />
-</p>
-
-**DevOps, Cloud & Testing**
+**Cloud, DevOps & Tooling**
 <p><img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,githubactions,git,github,grafana,prometheus&theme=dark" /></p>
 <p>
   <img src="https://img.shields.io/badge/JUnit-A78BFA?style=flat-square&labelColor=1a1a2e" />
@@ -71,23 +61,22 @@ Docker-sandboxed execution and a containerized CI/CD pipeline.
   <img src="https://img.shields.io/badge/Splunk-6366F1?style=flat-square&labelColor=1a1a2e" />
 </p>
 
-<br/>
+---
 
-## 💼 Experience
+## AI / ML Expertise
 
-#### Software Engineer · Deutsche Bank
-Sep 2025 — Present
+<p><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></p>
 
-- **Backend:** Engineered Java/Spring Boot microservices with LLM-based, human-in-the-loop validation of ServiceNow records against compliance rules, cutting manual review from ~45 to ~10 minutes per batch.
-- **API & Data:** Designed REST API contracts and relational schemas across PostgreSQL, Oracle, and MySQL; authored JUnit/Mockito unit and integration tests to harden service reliability.
-- **Full-Stack Platform:** Led end-to-end delivery of an internal notification platform (React/Vite + Java/Spring Boot) with RBAC, approval workflows, and lifecycle tracking; onboarded 10+ teams handling 100+ daily notifications.
-- **Frontend:** Delivered React/Vite frontends and full-stack features across multiple internal tools, and integrated SSO (Spring Security + LDAP) for secure access.
-- **AI Integration:** Developed feedback/integration REST endpoints, log-source connectors, and prompt logic for a live multi-agent SRE assistant used by 8 teams to surface fixes from historical incidents and speed triage.
-- **ML:** Trained a Random Forest classifier reaching ~85% accuracy on live data to flag recurring failures across 30+ ServiceNow assignment groups.
+| Domain | Proficiency | Details |
+|---|---|---|
+| **LLM Integration** | Production | GROQ/Ollama-backed services, prompt engineering, a live multi-agent SRE assistant used by 8 teams |
+| **Retrieval-Augmented Generation** | Production | pgvector semantic search over 4,800+ documents, Ollama embeddings, 5 specialized chat modes |
+| **Human-in-the-Loop Validation** | Production | LLM-assisted compliance review, cutting manual review from ~45 to ~10 minutes per batch |
+| **Applied ML** | Working | scikit-learn Random Forest classifier, ~85% accuracy flagging recurring failures |
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
 <summary><b>Job Portal — Hiring Platform</b></summary>
@@ -172,9 +161,39 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 
 </details>
 
-<br/>
+---
 
-## 🏆 Achievements
+## Experience
+
+#### Software Engineer · Deutsche Bank
+Sep 2025 — Present
+
+Own full-stack systems for compliance validation and org-wide notifications in a global banking
+environment — from REST APIs and data models to React UIs — plus AI/ML features embedded in
+production workflows.
+
+- **Backend:** Engineered Java/Spring Boot microservices with LLM-based, human-in-the-loop validation of ServiceNow records against compliance rules, cutting manual review from ~45 to ~10 minutes per batch.
+- **API & Data:** Designed REST API contracts and relational schemas across PostgreSQL, Oracle, and MySQL; authored JUnit/Mockito unit and integration tests to harden service reliability.
+- **Full-Stack Platform:** Led end-to-end delivery of an internal notification platform (React/Vite + Java/Spring Boot) with RBAC, approval workflows, and lifecycle tracking; onboarded 10+ teams handling 100+ daily notifications.
+- **Frontend:** Delivered React/Vite frontends and full-stack features across multiple internal tools, and integrated SSO (Spring Security + LDAP) for secure access.
+- **AI Integration:** Developed feedback/integration REST endpoints, log-source connectors, and prompt logic for a live multi-agent SRE assistant used by 8 teams to surface fixes from historical incidents and speed triage.
+- **ML:** Trained a Random Forest classifier reaching ~85% accuracy on live data to flag recurring failures across 30+ ServiceNow assignment groups.
+
+**Skills:**
+<p>
+  <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6366F1?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Kafka-A78BFA?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/LLM%2FRAG-6366F1?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/JWT%2FOAuth-A78BFA?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+---
+
+## Achievements
 
 <div align="center">
 
@@ -184,9 +203,9 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 
 </div>
 
-<br/>
+---
 
-## 📜 Certifications
+## Certifications
 
 **HackerRank**
 ![Java](https://img.shields.io/badge/Java-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
@@ -201,35 +220,9 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 **DeepLearning.AI**
 ![ML](https://img.shields.io/badge/Supervised%20Machine%20Learning-FF6F00?style=flat-square&logo=deeplearningdotai&logoColor=white)
 
-<br/>
+---
 
-<!--
-  PLACEHOLDER USERNAMES — replace every `your-...-username` below, and in
-  sync.config.json, with your real handle on each platform.
-
-  A single scheduled job (.github/workflows/contribution-sync.yml, every 15
-  min) reads sync.config.json and syncs solved problems into this repo as
-  real commits, so they show up in the GitHub contribution graph below
-  instead of a separate card per platform:
-    - LeetCode and Codeforces have working adapters today (scripts/adapters).
-    - GeeksforGeeks, HackerRank, CodeChef, and InterviewBit have no public
-      API, so their adapters are stubs — flip `enabled: true` for a platform
-      in sync.config.json once/if a real data source is wired up for it.
-  This is polling, not a live push — there's no webhook from these sites, so
-  "instant" isn't possible; 15 min is the practical floor before GitHub
-  starts delaying runs.
-
-  Setup, under Settings → Secrets and variables → Actions:
-    - Secrets: LEETCODE_SESSION, LEETCODE_CSRF_TOKEN (from your browser
-      cookies while logged into leetcode.com).
-    - Variables: GIT_AUTHOR_NAME, GIT_AUTHOR_EMAIL — your own GitHub
-      username and a verified email on your account (a GitHub-provided
-      noreply address like ID+username@users.noreply.github.com works
-      well). Without this the sync commits are attributed to
-      github-actions[bot] and won't count toward your contribution graph.
--->
-
-<!-- ## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -238,16 +231,15 @@ surfacing coverage gaps and auto-generating an audit-ready remediation summary.
 [![HackerRank](https://img.shields.io/badge/HackerRank-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/your-hackerrank-username)
 [![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-8B5CF6?style=for-the-badge&logoColor=white)](https://www.interviewbit.com/profile/your-interviewbit-username)
-[![Codeforces](https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-handle) -->
+[![Codeforces](https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-handle)
 
 </div>
 
-LeetCode and Codeforces activity syncs into the contribution graph below — see
-[Contribution Activity](#-contribution-activity).
+LeetCode and Codeforces solves sync automatically into the contribution graph below — setup details in [SETUP.md](SETUP.md).
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -258,7 +250,19 @@ LeetCode and Codeforces activity syncs into the contribution graph below — see
 
 </div>
 
-## 📈 Contribution Activity
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OmNaphade&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+---
+
+## Contribution Activity
 
 One heatmap for everything — GitHub work plus synced LeetCode/Codeforces solves.
 
@@ -268,10 +272,52 @@ One heatmap for everything — GitHub work plus synced LeetCode/Codeforces solve
 
 </div>
 
-## 🎯 Current Focus
+<div align="center">
 
-| | |
-|---|---|
-| 🔨 **Building** | **Job Portal** — microservices hiring platform · **Interview Hub** — RAG-grounded interview prep platform |
-| 🧭 **Exploring** | **LangGraph** & multi-agent architectures · **Semantic search** at scale (pgvector) |
-| 🎯 **Focus** | Java · Spring Boot · REST APIs · Microservices · React · PostgreSQL · Docker · GCP · Backend Engineering & Design |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmNaphade/OmNaphade/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmNaphade/OmNaphade/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/OmNaphade/OmNaphade/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+current_focus:
+  building:
+    - Job Portal — microservices hiring platform
+    - Interview Hub — RAG-grounded interview prep platform
+  exploring:
+    - LangGraph & multi-agent architectures
+    - Semantic search at scale (pgvector)
+  open_to:
+    - Backend / Full-Stack Engineering roles
+    - AI/ML & LLM integration collaboration
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://om-naphade.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnaphade/)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnaphade0902@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmNaphade)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building systems that scale, and systems that think.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
