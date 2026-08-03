@@ -24,7 +24,7 @@
 
 Full Stack Engineer with strong **Java**/**Spring Boot** backend depth and end-to-end **React**
 delivery, building secure, cloud-native **microservices** and internal platforms in a global banking
-environment. I own full-stack systems for compliance validation and org-wide
+environment, where I own full-stack systems for compliance validation and org-wide
 notifications — from REST APIs and data models to React UIs — cutting manual review time by
 **~78%** and streamlining incident workflows. I've also shipped **LLM**/**RAG** features in
 production and engineered a Spring Boot semantic-search platform over **4,800+** questions with
@@ -70,16 +70,6 @@ Docker-sandboxed execution and a containerized CI/CD pipeline.
   <img src="https://img.shields.io/badge/Mockito-8B5CF6?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Splunk-6366F1?style=flat-square&labelColor=1a1a2e" />
 </p>
-
-<br/>
-
-## 🧠 Shipping AI / ML
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Multi-Agent Systems | Production | Built feedback/integration endpoints, log-source connectors, and prompt logic for a live multi-agent SRE assistant used by 8 teams to surface fixes from historical incidents |
-| Classical ML | Applied | Trained a Random Forest classifier (~85% accuracy) flagging recurring failures across 30+ ServiceNow assignment groups; completed DeepLearning.AI's *Supervised Machine Learning* |
-| Semantic Search | Production | Built pgvector-based semantic search matching regulations to internal controls; engineered RAG-grounded interview Q&A retrieval with GROQ → Ollama fallback |
 
 <br/>
 
@@ -176,8 +166,6 @@ Sep 2025 — Present
 - **AI Integration:** Developed feedback/integration REST endpoints, log-source connectors, and prompt logic for a live multi-agent SRE assistant used by 8 teams to surface fixes from historical incidents and speed triage.
 - **ML:** Trained a Random Forest classifier reaching ~85% accuracy on live data to flag recurring failures across 30+ ServiceNow assignment groups.
 
-`Java` · `Spring Boot` · `React` · `LLM/RAG` · `PostgreSQL` · `Spring Security` · `LDAP` · `JUnit/Mockito`
-
 <br/>
 
 ## 🏆 Achievements
@@ -187,7 +175,6 @@ Sep 2025 — Present
 | Recognition | Details |
 |---|---|
 | **Bank on Tech — Selected Presenter (firm-wide)** (Jun 2026) | Selected among firm-wide applicants to present an LLM-powered notification platform for releases and high-impact events to senior management — a framework for transparent, real-time, audience-targeted communication with built-in approval workflows and end-to-end lifecycle tracking |
-| **Global 24-Hour Hackathon — Participant** (Jul 2026) | Co-built the Regulation Impact Intelligence Platform with a 4-person team; earned judges' recognition for technical execution |
 
 </div>
 
@@ -234,14 +221,6 @@ Sep 2025 — Present
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNaphade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 <img src="https://streak-stats.demolab.com/?user=OmNaphade&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
-
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmNaphade&theme=algolia&no-frame=true&margin-w=8&column=4" />
 
 </div>
 
