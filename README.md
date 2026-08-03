@@ -240,7 +240,7 @@ production workflows.
 
 </div>
 
-LeetCode and Codeforces solves sync automatically into the contribution graph below — setup details in [SETUP.md](SETUP.md).
+<!-- LeetCode and Codeforces solves sync automatically into the contribution graph below — setup details in [SETUP.md](SETUP.md). -->
 
 ---
 
