@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Om%20Naphade&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%2FSpring%20Boot%20%7C%20React%20%7C%20LLM%2FRAG&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=Om%20Naphade&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%7C%20Java%2FSpring%20Boot%20%7C%20React%20%7C%20LLM%2FRAG&descAlignY=56&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=880&lines=Java+%2F+Spring+Boot+%2F+Microservices;React+%2B+REST+APIs+%2B+PostgreSQL;Shipping+LLM+%2F+RAG+features+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=980&lines=Java+%2F+Spring+Boot+%2F+Microservices;React+%2B+REST+APIs+%2B+PostgreSQL;Shipping+LLM+%2F+RAG+features+in+production" alt="Typing SVG" />
 
 ![Education](https://img.shields.io/badge/B.E.%20Computer%20Engineering%20%C2%B7%20PG--DAC%20(CDAC)-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Pune%2C%20Maharashtra%2C%20India-6366F1?style=for-the-badge&labelColor=1a1a2e)
@@ -40,20 +40,20 @@ execution and a containerized CI/CD pipeline.
 ## Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" /></p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" /></p>
 
 **Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,hibernate,postgres,mysql,redis&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,hibernate,postgres,mysql,redis&theme=dark" /></p>
 <p>
   <img src="https://img.shields.io/badge/pgvector-6366F1?style=for-the-badge&labelColor=1a1a2e" height="40" />
   <img src="https://img.shields.io/badge/Oracle-8B5CF6?style=for-the-badge&labelColor=1a1a2e" height="40" />
 </p>
 
 **Cloud, DevOps & Tooling**
-<p><img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,githubactions,git,github,grafana,prometheus&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,githubactions,git,github,grafana,prometheus&theme=dark" /></p>
 <p>
   <img src="https://img.shields.io/badge/JUnit-A78BFA?style=for-the-badge&labelColor=1a1a2e" height="40" />
   <img src="https://img.shields.io/badge/Mockito-8B5CF6?style=for-the-badge&labelColor=1a1a2e" height="40" />
@@ -64,7 +64,7 @@ execution and a containerized CI/CD pipeline.
 
 ## AI / ML Expertise
 
-<p><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></p>
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -81,7 +81,7 @@ execution and a containerized CI/CD pipeline.
 <summary><b>Job Portal — Hiring Platform</b></summary>
 <br/>
 
-<p><img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,react,docker,githubactions,grafana,prometheus&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,react,docker,githubactions,grafana,prometheus&theme=dark" /></p>
 
 Built a role-based hiring platform covering the full recruitment lifecycle — candidates, recruiters,
 and admins — as 9 independent Spring Boot microservices behind an API Gateway, with a React
@@ -110,7 +110,7 @@ Grafana dashboards, JaCoCo coverage, and k6 load tests.
 <summary><b>Interview Hub</b></summary>
 <br/>
 
-<p><img src="https://skillicons.dev/icons?i=java,spring,postgres,react,docker,githubactions&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,spring,postgres,react,docker,githubactions&theme=dark" /></p>
 
 Built an end-to-end AI interview preparation platform: layered Spring Boot backend, RAG-grounded
 chat assistant, and a sandboxed multi-language code playground.
@@ -137,7 +137,7 @@ containers.
 <summary><b>Regulation Impact Intelligence Platform</b></summary>
 <br/>
 
-<p><img src="https://skillicons.dev/icons?i=py,react,ts,postgres,docker,gcp&theme=dark" width="100%" /></p>
+<p><img src="https://skillicons.dev/icons?i=py,react,ts,postgres,docker,gcp&theme=dark" /></p>
 
 Built during a 24-hour hackathon (4-person team): an AI-assisted pipeline mapping regulatory
 obligations to internal controls and applications, scoring risk gaps and generating a prioritized
@@ -247,8 +247,8 @@ LeetCode and Codeforces solves sync automatically into the contribution graph be
 
 <div align="center">
 
-<img height="240" src="https://github-readme-stats.vercel.app/api?username=OmNaphade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNaphade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img height="290" src="https://github-readme-stats.vercel.app/api?username=OmNaphade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNaphade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=OmNaphade&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
 
@@ -299,6 +299,6 @@ current_focus:
 
 *Building systems that scale, and systems that think.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer" width="100%" />
 
 </div>
