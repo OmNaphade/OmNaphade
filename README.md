@@ -234,15 +234,8 @@ Sep 2025 — Present
 
 ## 🎯 Current Focus
 
-```yaml
-building:
-  - "Job Portal — microservices hiring platform"
-  - "Interview Hub — RAG-grounded interview prep platform"
-shipping:
-  - "LLM/RAG features in production"
-exploring:
-  - "LangGraph & multi-agent architectures"
-  - "Semantic search at scale (pgvector)"
-focus:
-  - "Java · Spring Boot · REST APIs · Microservices"
-  - "React · PostgreSQL · Docker · GCP"
+| | |
+|---|---|
+| 🔨 **Building** | **Job Portal** — microservices hiring platform · **Interview Hub** — RAG-grounded interview prep platform |
+| 🧭 **Exploring** | **LangGraph** & multi-agent architectures · **Semantic search** at scale (pgvector) |
+| 🎯 **Focus** | Java · Spring Boot · REST APIs · Microservices · React · PostgreSQL · Docker · GCP · Backend Engineering & Design |
