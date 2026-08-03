@@ -252,9 +252,9 @@ LeetCode and Codeforces activity syncs into the contribution graph below — see
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmNaphade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNaphade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNaphade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com/?user=OmNaphade&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
+<img src="https://streak-stats.demolab.com/?user=OmNaphade&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" /> -->
 
 </div>
 
