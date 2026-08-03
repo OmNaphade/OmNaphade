@@ -1,8 +1,8 @@
 # Sync setup
 
-Placeholder usernames — replace every `your-...-username` badge link in
-[README.md](README.md), and the entries in [sync.config.json](sync.config.json),
-with real handles before publishing.
+`sync.config.json` already has real handles filled in for every platform.
+Only LeetCode and Codeforces are `enabled: true` today — those are the only
+two with a working adapter.
 
 ## Coding contribution sync
 
@@ -12,9 +12,14 @@ so they show up in the GitHub contribution graph instead of a separate card
 per platform:
 
 - LeetCode and Codeforces have working adapters (`scripts/adapters/`).
-- GeeksforGeeks, HackerRank, CodeChef, and InterviewBit have no public API,
-  so their adapters are stubs — flip `enabled: true` for a platform in
-  `sync.config.json` once/if a real data source is wired up for it.
+- GeeksforGeeks, HackerRank, CodeChef, InterviewBit, and HackerEarth have no
+  public API, so their adapters are stubs — flip `enabled: true` for a
+  platform in `sync.config.json` once/if a real data source is wired up for it.
+
+**LeetCode caveat:** the LeetCode adapter is scoped to whichever account
+owns `LEETCODE_SESSION` below, not the `username` field in the config — make
+sure that session belongs to the `Om_Naphade` account, or the sync will pull
+the wrong person's solves.
 
 This is polling, not a live push — there's no webhook from these sites, so
 "instant" sync on submit isn't possible; 15 minutes is close to the

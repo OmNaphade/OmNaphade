@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Om%20Naphade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%2FSpring%20Boot%20%7C%20React%20%7C%20LLM%2FRAG&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Om%20Naphade&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%2FSpring%20Boot%20%7C%20React%20%7C%20LLM%2FRAG&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Java+%2F+Spring+Boot+%2F+Microservices;React+%2B+REST+APIs+%2B+PostgreSQL;Shipping+LLM+%2F+RAG+features+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=880&lines=Java+%2F+Spring+Boot+%2F+Microservices;React+%2B+REST+APIs+%2B+PostgreSQL;Shipping+LLM+%2F+RAG+features+in+production" alt="Typing SVG" />
 
-![Education](https://img.shields.io/badge/B.E.%20Computer%20Engineering%20%C2%B7%20PG--DAC%20(CDAC)-8B5CF6?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/Pune%2C%20Maharashtra%2C%20India-6366F1?style=flat-square&labelColor=1a1a2e)
+![Education](https://img.shields.io/badge/B.E.%20Computer%20Engineering%20%C2%B7%20PG--DAC%20(CDAC)-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Pune%2C%20Maharashtra%2C%20India-6366F1?style=for-the-badge&labelColor=1a1a2e)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://om-naphade.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnaphade/)
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnaphade0902@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmNaphade)
 
-![Profile Views](https://komarev.com/ghpvc/?username=OmNaphade&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/OmNaphade?style=flat-square&color=6366F1&label=Followers)
-![Stars](https://img.shields.io/github/stars/OmNaphade?style=flat-square&color=A78BFA&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=OmNaphade&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![Stars](https://img.shields.io/github/stars/OmNaphade?style=for-the-badge&color=A78BFA&labelColor=1a1a2e&label=Stars)
 
 </div>
 
@@ -41,31 +40,31 @@ execution and a containerized CI/CD pipeline.
 ## Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" width="100%" /></p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" width="100%" /></p>
 
 **Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,hibernate,postgres,mysql,redis&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,hibernate,postgres,mysql,redis&theme=dark" width="100%" /></p>
 <p>
-  <img src="https://img.shields.io/badge/pgvector-6366F1?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Oracle-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/pgvector-6366F1?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/Oracle-8B5CF6?style=for-the-badge&labelColor=1a1a2e" height="40" />
 </p>
 
 **Cloud, DevOps & Tooling**
-<p><img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,githubactions,git,github,grafana,prometheus&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,githubactions,git,github,grafana,prometheus&theme=dark" width="100%" /></p>
 <p>
-  <img src="https://img.shields.io/badge/JUnit-A78BFA?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Mockito-8B5CF6?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Splunk-6366F1?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/JUnit-A78BFA?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/Mockito-8B5CF6?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/Splunk-6366F1?style=for-the-badge&labelColor=1a1a2e" height="40" />
 </p>
 
 ---
 
 ## AI / ML Expertise
 
-<p><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="100%" /></p>
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -82,7 +81,7 @@ execution and a containerized CI/CD pipeline.
 <summary><b>Job Portal — Hiring Platform</b></summary>
 <br/>
 
-<p><img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,react,docker,githubactions,grafana,prometheus&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,react,docker,githubactions,grafana,prometheus&theme=dark" width="100%" /></p>
 
 Built a role-based hiring platform covering the full recruitment lifecycle — candidates, recruiters,
 and admins — as 9 independent Spring Boot microservices behind an API Gateway, with a React
@@ -111,7 +110,7 @@ Grafana dashboards, JaCoCo coverage, and k6 load tests.
 <summary><b>Interview Hub</b></summary>
 <br/>
 
-<p><img src="https://skillicons.dev/icons?i=java,spring,postgres,react,docker,githubactions&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,spring,postgres,react,docker,githubactions&theme=dark" width="100%" /></p>
 
 Built an end-to-end AI interview preparation platform: layered Spring Boot backend, RAG-grounded
 chat assistant, and a sandboxed multi-language code playground.
@@ -138,7 +137,7 @@ containers.
 <summary><b>Regulation Impact Intelligence Platform</b></summary>
 <br/>
 
-<p><img src="https://skillicons.dev/icons?i=py,react,ts,postgres,docker,gcp&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=py,react,ts,postgres,docker,gcp&theme=dark" width="100%" /></p>
 
 Built during a 24-hour hackathon (4-person team): an AI-assisted pipeline mapping regulatory
 obligations to internal controls and applications, scoring risk gaps and generating a prioritized
@@ -181,14 +180,14 @@ production workflows.
 
 **Skills:**
 <p>
-  <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6366F1?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Kafka-A78BFA?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/LLM%2FRAG-6366F1?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/JWT%2FOAuth-A78BFA?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6366F1?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/Kafka-A78BFA?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/LLM%2FRAG-6366F1?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/JWT%2FOAuth-A78BFA?style=for-the-badge&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge&labelColor=1a1a2e" height="40" />
 </p>
 
 ---
@@ -208,17 +207,21 @@ production workflows.
 ## Certifications
 
 **HackerRank**
-![Java](https://img.shields.io/badge/Java-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" />
+</p>
 
 **Google Cloud**
-![GCF](https://img.shields.io/badge/Google%20Cloud%20Fundamentals%3A%20Core%20Infrastructure-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GKE](https://img.shields.io/badge/Architecting%20with%20GKE%3A%20Foundations-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![K8s](https://img.shields.io/badge/Deploy%20Kubernetes%20Apps%20on%20Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Build%20Infrastructure%20with%20Terraform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Fundamentals%3A%20Core%20Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Architecting%20with%20GKE%3A%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Deploy%20Kubernetes%20Apps%20on%20Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Build%20Infrastructure%20with%20Terraform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="40" />
+</p>
 
 **DeepLearning.AI**
-![ML](https://img.shields.io/badge/Supervised%20Machine%20Learning-FF6F00?style=flat-square&logo=deeplearningdotai&logoColor=white)
+<p><img src="https://img.shields.io/badge/Supervised%20Machine%20Learning-FF6F00?style=for-the-badge&logo=deeplearningdotai&logoColor=white" height="40" /></p>
 
 ---
 
@@ -226,12 +229,13 @@ production workflows.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/your-leetcode-username/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-gfg-username/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/your-hackerrank-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-8B5CF6?style=for-the-badge&logoColor=white)](https://www.interviewbit.com/profile/your-interviewbit-username)
-[![Codeforces](https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-handle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Om_Naphade/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/omnaphat890/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/omnaphade0902)
+[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/om_naphade)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-8B5CF6?style=for-the-badge&logoColor=white)](https://www.interviewbit.com/profile/om-naphade)
+[![Codeforces](https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MasterOmAN)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-7C3AED?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@omnaphade0902)
 
 </div>
 
@@ -243,20 +247,10 @@ LeetCode and Codeforces solves sync automatically into the contribution graph be
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmNaphade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNaphade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img height="240" src="https://github-readme-stats.vercel.app/api?username=OmNaphade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNaphade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com/?user=OmNaphade&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmNaphade&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=OmNaphade&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
 
 </div>
 
@@ -268,7 +262,7 @@ One heatmap for everything — GitHub work plus synced LeetCode/Codeforces solve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmNaphade&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmNaphade&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" />
 
 </div>
 
@@ -277,7 +271,7 @@ One heatmap for everything — GitHub work plus synced LeetCode/Codeforces solve
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmNaphade/OmNaphade/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmNaphade/OmNaphade/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/OmNaphade/OmNaphade/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/OmNaphade/OmNaphade/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -301,23 +295,10 @@ current_focus:
 
 ---
 
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://om-naphade.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnaphade/)
-[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnaphade0902@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmNaphade)
-
-</div>
-
----
-
 <div align="center">
 
 *Building systems that scale, and systems that think.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer" width="100%" />
 
 </div>

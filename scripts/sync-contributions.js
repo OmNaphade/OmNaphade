@@ -11,6 +11,7 @@ const adapters = {
   hackerrank: require("./adapters/hackerrank"),
   codechef: require("./adapters/codechef"),
   interviewbit: require("./adapters/interviewbit"),
+  hackerearth: require("./adapters/hackerearth"),
 };
 
 async function main() {

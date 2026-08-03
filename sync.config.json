@@ -1,26 +1,30 @@
 {
   "leetcode": {
     "enabled": true,
-    "username": "your-leetcode-username"
+    "username": "Om_Naphade"
   },
   "codeforces": {
     "enabled": true,
-    "username": "your-codeforces-handle"
+    "username": "MasterOmAN"
   },
   "geeksforgeeks": {
     "enabled": false,
-    "username": "your-gfg-username"
+    "username": "omnaphat890"
   },
   "hackerrank": {
     "enabled": false,
-    "username": "your-hackerrank-username"
+    "username": "omnaphade0902"
   },
   "codechef": {
     "enabled": false,
-    "username": "your-codechef-username"
+    "username": "om_naphade"
   },
   "interviewbit": {
     "enabled": false,
-    "username": "your-interviewbit-username"
+    "username": "om-naphade"
+  },
+  "hackerearth": {
+    "enabled": false,
+    "username": "omnaphade0902"
   }
 }
